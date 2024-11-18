@@ -1,5 +1,5 @@
-describe('Pruebas de inicio de sesión en Chat Hispano', () => {
-  const baseUrl = 'https://chathispano.com/auth/login';
+describe('Pruebas de inicio de sesión en Chat ####', () => {
+  const baseUrl = 'https://...login';
 
   beforeEach(() => {
     // Visita la página de inicio de sesión antes de cada prueba
